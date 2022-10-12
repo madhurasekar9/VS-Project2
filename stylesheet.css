@@ -69,27 +69,34 @@ a{text-decoration: none;
     padding: 10%;
     background-color: rgb(0, 0, 0);
     height: 100vh;
+    padding-top: 20vh;
     color: #FFFFFF;
 }
 
-h1{ font-family: sans-serif;
-font-size: 80px;
+h1{ font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 80px;
 width: 85%;
-font-weight: bold;
+line-height: 98.9%;
 margin: 0px;}
 
 
 .p11{font-family: sans-serif;
     font-size: 18px;
 width: 65%;
-line-height: 130%;
+line-height: 140%;
+color: #E1E1E1;
+
 }
 
 
-h4{font-family: sans-serif;
-    font-size: 30px;
-    margin-top: 20px;
-    margin-bottom: 20px;}
+h4{font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    margin-top: 25px;
+    margin-bottom: 25px;}
 
 
     /*-------*/
@@ -100,6 +107,7 @@ h4{font-family: sans-serif;
     height: 100vh;
     padding: 10%;
     color: #FFFFFF;
+    padding-top: 20vh;
 }
 
 
@@ -109,6 +117,7 @@ h4{font-family: sans-serif;
     height: 100vh;
     padding: 10%;
     color: #FFFFFF;
+    padding-top: 20vh;
 }
 
 .section4{
@@ -117,6 +126,7 @@ h4{font-family: sans-serif;
     height: 100vh;
     padding: 10%;
     color: #FFFFFF;
+    padding-top: 20vh;
 }
 
 .section5{
@@ -125,6 +135,7 @@ h4{font-family: sans-serif;
     height: 100vh;
     padding: 10%;
     color: #FFFFFF;
+    padding-top: 20vh;
 }
 
 .section6{
@@ -133,6 +144,7 @@ h4{font-family: sans-serif;
     height: 100vh;
     padding: 10%;
     color: #FFFFFF;
+    padding-top: 20vh;
 }
 
 .section7{
@@ -141,6 +153,7 @@ h4{font-family: sans-serif;
     height: 100vh;
     padding: 10%;
     color: #FFFFFF;
+    padding-top: 20vh;
 }
 
 .section8{
@@ -149,5 +162,6 @@ h4{font-family: sans-serif;
     height: 100vh;
     padding: 10%;
     color: #FFFFFF;
+    padding-top: 20vh;
 }
 
